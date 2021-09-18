@@ -73,3 +73,5 @@ Here, we use *pack()* to arrange our widgets in row and column form. The 'BlankL
     root.mainloop()
 #### Explanation:
 + ***root.mainloop()*** is used to open the main window. It acts as the main function of our program.
+
+# Thank you!
